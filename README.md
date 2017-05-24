@@ -23,6 +23,6 @@ Getting Started
 1. Activate the virtualenv: ``source env/bin/activate``
 2. Test the app: ``python manage.py test``
 
-### If curios about this app ###
+### If you curious about this app ###
 1. Run the server: ``python manage.py runserver``
 2. Open website in browser at ``http://localhost:8000/transaction/1`` or admin at ``http://localhost:8000/admin`` (admin:passwordadmin)
