@@ -5,8 +5,8 @@ I made this repository for exercise purpose.
 
 Requirements
 ---------------
-Python 2.7  
-Django 1.11
+Python 2.7 __
+Django 1.11__
 Selenium
 
 Getting Started
