@@ -8,6 +8,7 @@ Requirements
 Python 2.7<br />
 Django 1.11<br />
 Selenium<br />
+Geckodriver<br />
 
 Getting Started
 ---------------
